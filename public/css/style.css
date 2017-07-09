@@ -1,0 +1,104 @@
+/*Author: Salman Ahmed */
+*{
+	margin:0px auto;
+	padding:0px;
+}
+body{
+	background-color:#F8F8F8;
+}
+#wrapper{
+	height:100%;
+	width: 980px;
+	margin:0px auto;
+	padding:1px;
+	background-color:#FFFFFF;
+	 
+}
+#header {
+	width: 980px;
+	margin-bottom:-3px;
+		}
+h3{
+	color:white;
+	background-color:#5C8AE6;
+	text-align:center;
+	line-height:27px;
+}
+#navbar{
+	height:100%;
+	margin:0px auto;
+	float:left;
+	width:145px;
+}
+table{
+	margin:0px;
+}
+#navbar td{
+	border-bottom:1px dotted;
+	width:140px;
+}
+#navbar a{
+	line-height:30px;
+	text-decoration:none;
+	color:black;
+	font-weight:bold;
+	font-family:candara;
+	font-size:16px;
+	}
+#navbar a:hover{
+	padding-left:3.8px;
+}
+#details{
+	 
+	height:100%;
+	margin:0px auto;
+	float:left;
+	width:815px;
+	padding:5px 1px 5px 8px;
+}
+#details p{
+	text-align:justify;
+	line-height:24px;
+	font-family:times new roman;
+}
+#footer{
+	height:100%;
+	width:980px;
+	background-color:#5C8AE6;
+	font-family:candara;
+	margin:0px 0px -1px 0px;
+}
+#footer a{
+	color:white;
+	text-decoration:none;
+}
+#last{
+	width:980;
+	text-align:center;
+	background-color:#5C8AE6;
+	color:#F6F6F6;
+	}
+#last a{
+	text-decoration:none;
+}
+#footer a:hover{
+	border-bottom:1px dotted blue;
+}
+#tdl a{
+	line-height:30px;
+	margin-right:8px;
+	margin-left:2px;
+	font-weight:bold;
+}
+#tdl{
+	width:880px;
+}
+#footer img{
+	margin:5px 0px 0px 0px;
+	cursor:pointer;
+}
+#footer img:hover{
+	opacity:0.7;
+}
+a:hover{
+color: #a2bce5!important;}
